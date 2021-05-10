@@ -72,7 +72,7 @@ pub struct VoteRegistrationJob {
     working_dir: PathBuf,
 }
 
-impl Default for job::VoteRegistrationJobBuilder {
+impl Default for VoteRegistrationJobBuilder {
     fn default() -> Self {
         Self::new()
     }
