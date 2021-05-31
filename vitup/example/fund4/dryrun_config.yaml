@@ -1,16 +1,16 @@
 {  
   "initials": [
     {
-      "above_threshold": 50,
+      "above_threshold": 10,
       "pin": "1234"
     }
   ],
-  "vote_start": 0,
-  "vote_tally": 41,
-  "tally_end": 51,
-  "refresh_time": "2021-04-13T09:00:00",
-  "next_vote_start_time": "2021-04-30T21:00:00",
-  "proposals": 285,
+  "vote_start": 3,
+  "vote_tally": 47,
+  "tally_end": 61,
+  "refresh_time": "2021-05-31T07:30:00",
+  "next_vote_start_time": "2021-06-03T10:00:00",
+  "proposals": 280,
   "challenges": 7,
   "slot_duration": 20,
   "slots_per_epoch": 90,
